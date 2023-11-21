@@ -1,4 +1,4 @@
-#include "git-compat-util.h"
+  #include "git-compat-util.h"
 #include "abspath.h"
 #include "copy.h"
 #include "environment.h"
